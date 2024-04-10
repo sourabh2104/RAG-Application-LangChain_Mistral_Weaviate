@@ -1,5 +1,8 @@
 # RAG-Application-LangChain_Mistral_Weaviate
+
+
 Requirements:-
+
 1.WEAVIATE_API_KEY- create an account on weaviate and get the api_key
 2.WEAVIATE_CLUSTER_KEY- give a name of your project and get the cluster_key
 3.HuggingFace_API_KEY-  get from huggingface website in setting section you get it
