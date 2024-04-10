@@ -18,4 +18,4 @@ Requirements:-
 7.Add any pdf you want to train your chatboat
 
 
-8. WHy are you still reading here??? Go and create your own Chatboat or QnA assistant own your own custome data.
+8.WHy are you still reading here??? Go and create your own Chatboat or QnA assistant on your own custome data.
